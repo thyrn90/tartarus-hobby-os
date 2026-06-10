@@ -1,0 +1,12 @@
+.vscode/
+gnu-efi/
+gnu-efi/
+BOOTX64.efi
+*.o
+disk.img
+OVMF.fd
+mock.exe
+subject.exe
+payload.bin
+payload.asm
+TEST.txt
