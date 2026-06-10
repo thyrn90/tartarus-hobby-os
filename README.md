@@ -66,3 +66,4 @@ qemu-system-x86_64 -bios OVMF.fd -drive file=disk.img,format=raw -m 512M -vga st
 ```
 
 **Architect: thyrn90**
+**LICENSE: BSD 2-Clause
